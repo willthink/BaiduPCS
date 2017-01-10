@@ -16,3 +16,5 @@ libpcs.a
 .DS_Store
 dependencies
 tags
+
+*.out
